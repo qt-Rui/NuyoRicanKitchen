@@ -209,6 +209,7 @@ img { /* All images have constant size with borders and spacing */
     }
     .hero {
         margin-bottom: 40px;
+        margin-top: 30px;
     }
 }
 
