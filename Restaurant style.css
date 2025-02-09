@@ -214,7 +214,7 @@ img { /* All images have constant size with borders and spacing */
     h1.company-name {
         font-size: 32px;
         margin-left: 10px;
-        text-align: center;
+        justify-content: center;
     }
     .logo img {
         height: 50px;
