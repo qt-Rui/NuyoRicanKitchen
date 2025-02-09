@@ -212,11 +212,11 @@ img { /* All images have constant size with borders and spacing */
         margin-top: 50px;
     }
     h1.company-name {
-        font-size: 32px;
+        font-size: 40px;
         margin-left: 10px;
     }
     .logo img {
-        height: 40px;
+        height: 50px;
     }
     header {
         padding: 9px;
